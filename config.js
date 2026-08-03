@@ -1,1 +1,1 @@
-window.NOCTIA_ALPHA_URL = "https://closes-cure-contribute-seats.trycloudflare.com"
+window.NOCTIA_ALPHA_URL = "https://cakes-truly-informational-similar.trycloudflare.com"
