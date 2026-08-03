@@ -1,1 +1,1 @@
-window.NOCTIA_ALPHA_URL = "https://ron-gorgeous-algorithms-officially.trycloudflare.com"
+window.NOCTIA_ALPHA_URL = "https://closes-cure-contribute-seats.trycloudflare.com"
