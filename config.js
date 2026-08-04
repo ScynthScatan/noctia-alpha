@@ -1,1 +1,1 @@
-window.NOCTIA_ALPHA_URL = "https://variance-standards-para-citysearch.trycloudflare.com"
+window.NOCTIA_ALPHA_URL = "https://laugh-moisture-tan-talking.trycloudflare.com"
