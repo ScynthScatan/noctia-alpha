@@ -1,1 +1,1 @@
-window.NOCTIA_ALPHA_URL = "https://humanities-alan-incidence-pilot.trycloudflare.com"
+window.NOCTIA_ALPHA_URL = "https://comfortable-transmission-college-bigger.trycloudflare.com"
